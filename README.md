@@ -1,1 +1,1 @@
-# GitHubTutorial
+# GitHubTutorial(seminar)
